@@ -65,8 +65,8 @@ quién lo va a usar, y qué pasa cuando la fuente cambia sin avisar.
 ## En números
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchiapped/fchiapped/main/trabajo-2026-oscuro.svg">
-  <img alt="Commits por mes en 2026 separados por frente de trabajo: junio 314, julio 328, agosto 197, septiembre 111" src="https://raw.githubusercontent.com/fchiapped/fchiapped/main/trabajo-2026-claro.svg" width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchiapped/fchiapped/main/frentes-2026-oscuro.svg">
+  <img alt="Commits por mes en 2026 separados por frente de trabajo: junio 314, julio 328, agosto 197, septiembre 111" src="https://raw.githubusercontent.com/fchiapped/fchiapped/main/frentes-2026-claro.svg" width="640">
 </picture>
 
 950 commits en lo que va de 2026, repartidos en 22 repositorios. El grueso está en
