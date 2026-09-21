@@ -11,28 +11,51 @@ sirve poco si no queda corriendo solo.
 
 ## En qué estoy ahora
 
-**Infraestructura deportiva.** Es mi frente principal hoy. Trabajo sobre el catastro
-nacional de recintos deportivos: consolidación de fuentes que no conversan entre sí,
-análisis geoespacial de cobertura territorial, y herramientas para decidir dónde
-conviene invertir. Datos públicos, muchos recintos, criterios que hay que discutir
-antes de calcular.
+**Infraestructura deportiva y territorio.** Mi frente principal. Catastro nacional de
+recintos: consolidar fuentes que no conversan entre sí, medir cobertura territorial,
+y construir la herramienta interna con la que se decide dónde invertir y se hace
+seguimiento de los recintos. Datos públicos, criterios que hay que discutir antes de
+calcular.
 
-**Análisis parlamentario y de medios.** Pipelines con LLMs que transcriben sesiones
-legislativas, estructuran posturas por actor y siguen la cobertura de prensa diaria.
-Lo que antes era leer y resumir a mano, hoy llega procesado.
+**Análisis parlamentario y de medios.** Pipelines con modelos de lenguaje que
+transcriben sesiones legislativas, estructuran posturas por actor y siguen la
+cobertura de prensa diaria. Lo que antes era leer y resumir a mano, hoy llega
+procesado.
 
 ---
 
-## Cómo trabajo
+## Stack
 
-| | |
-|---|---|
-| **Lenguaje** | Python, SQL |
-| **Datos** | pandas, PostgreSQL, Databricks, ETL, web scraping |
-| **IA** | LLMs en producción, RAG, agentes, MCP |
-| **Nube** | Google Cloud (Cloud Run, Cloud SQL, Vertex AI), Docker, GitHub Actions |
-| **Geoespacial** | GeoPandas, PMTiles, MapLibre |
-| **Visualización** | Plotly, Streamlit |
+**Lenguajes y datos**
+
+![Python](https://img.shields.io/badge/Python-1F6FB2?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F6FB2?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-1F6FB2?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1F6FB2?style=flat-square&logo=numpy&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-1F6FB2?style=flat-square&logo=databricks&logoColor=white)
+
+**IA y agentes**
+
+![Claude](https://img.shields.io/badge/Claude-1F6FB2?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1F6FB2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-1F6FB2?style=flat-square&logo=googlecloud&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F6FB2?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1F6FB2?style=flat-square)
+
+**Nube y despliegue**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1F6FB2?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-1F6FB2?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F6FB2?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F6FB2?style=flat-square&logo=githubactions&logoColor=white)
+
+**Geoespacial y visualización**
+
+![GeoPandas](https://img.shields.io/badge/GeoPandas-1F6FB2?style=flat-square&logo=geopandas&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-1F6FB2?style=flat-square&logo=maplibre&logoColor=white)
+![PMTiles](https://img.shields.io/badge/PMTiles-1F6FB2?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-1F6FB2?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1F6FB2?style=flat-square&logo=streamlit&logoColor=white)
 
 Me interesa menos el modelo que el sistema alrededor: de dónde vienen los datos,
 quién lo va a usar, y qué pasa cuando la fuente cambia sin avisar.
@@ -42,17 +65,16 @@ quién lo va a usar, y qué pasa cuando la fuente cambia sin avisar.
 ## En números
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchiapped/fchiapped/main/actividad-2026-oscuro.svg">
-  <img alt="Commits por mes en 2026: junio 314, julio 328, agosto 197, septiembre 111" src="https://raw.githubusercontent.com/fchiapped/fchiapped/main/actividad-2026-claro.svg" width="560">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchiapped/fchiapped/main/trabajo-2026-oscuro.svg">
+  <img alt="Commits por mes en 2026 separados por frente de trabajo: junio 314, julio 328, agosto 197, septiembre 111" src="https://raw.githubusercontent.com/fchiapped/fchiapped/main/trabajo-2026-claro.svg" width="640">
 </picture>
 
 950 commits en lo que va de 2026, repartidos en 22 repositorios. El grueso está en
 proyectos privados: aplicaciones en producción, pipelines de datos y análisis que se
 usan a diario dentro de la institución.
 
-Dónde se concentra el trabajo, de mayor a menor: sistemas de datos geoespaciales,
-pipelines con modelos de lenguaje, aplicaciones web de consulta y análisis de series
-de tiempo.
+El gráfico muestra un cambio de frente real, no una curva de actividad. Junio fue
+casi todo análisis político. Septiembre es casi todo territorio.
 
 ---
 
@@ -72,8 +94,9 @@ equipo de tres y junto a una empresa de tecnología para tratamiento de agua. Qu
 operando sobre datos reales de tres plantas.
 
 **[Proyecto-Geoespaciales](https://github.com/fchiapped/Proyecto-Geoespaciales)** —
-Análisis geoespacial para localización de estaciones: cobertura, accesibilidad y
-criterios de ubicación sobre datos urbanos.
+Cobertura del Metro de Santiago por zona censal: cuánta gente queda fuera del
+alcance caminable de una estación y cuánto lo corrigen las líneas proyectadas.
+Moran's I local, DBSCAN e imágenes satelitales.
 
 ---
 
