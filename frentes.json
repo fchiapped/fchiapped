@@ -1,0 +1,21 @@
+{
+  "_comentario": "A que frente de trabajo pertenece cada repo. Un repo que no este aca cae en el frente por defecto. Para sumar uno nuevo basta agregar la linea.",
+  "_por_defecto": "Documentación y sistema interno",
+  "_orden": [
+    "Análisis político y de medios",
+    "Documentación y sistema interno",
+    "Infraestructura y territorio"
+  ],
+  "mapa-politico": "Análisis político y de medios",
+  "comunicacion-estrategica": "Análisis político y de medios",
+  "comunicaciones": "Análisis político y de medios",
+  "base-conocimiento-ministra": "Análisis político y de medios",
+  "bot-noticias-mindep": "Análisis político y de medios",
+  "monitoreo-medios-ministra": "Análisis político y de medios",
+  "transcripcion-comisiones": "Análisis político y de medios",
+  "agenda-ministra": "Análisis político y de medios",
+  "recomendador-centros": "Infraestructura y territorio",
+  "catastro-recintos": "Infraestructura y territorio",
+  "dashboard-recintos": "Infraestructura y territorio",
+  "red-municipal-deporte": "Infraestructura y territorio"
+}

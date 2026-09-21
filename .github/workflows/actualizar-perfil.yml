@@ -1,0 +1,38 @@
+name: Actualizar grafico del perfil
+
+# Corre solo los lunes a las 12:00 UTC (09:00 en Chile) y se puede disparar a mano
+# desde la pestana Actions. Si no cambio nada, no commitea.
+on:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Regenerar grafico y cifras
+        env:
+          TOKEN_REPOS: ${{ secrets.TOKEN_REPOS }}
+        run: python scripts/generar_graficos.py
+
+      - name: Publicar si hubo cambios
+        run: |
+          git config user.name "Franco Chiappe"
+          git config user.email "frncchiappe@gmail.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Actualizar grafico de actividad del perfil"
+            git push
+          else
+            echo "Sin cambios que publicar."
+          fi
