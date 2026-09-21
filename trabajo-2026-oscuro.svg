@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="292" viewBox="0 0 640 292" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="34" y="20" font-size="14" font-weight="600" fill="#E6EDF3">En que trabaje, mes a mes (2026)</text>
+<rect x="34" y="33" width="10" height="10" rx="2" fill="#5B93CF"/>
+<text x="50" y="42" font-size="12" fill="#8B949E">Analisis politico y de medios</text>
+<rect x="334" y="33" width="10" height="10" rx="2" fill="#C97F42"/>
+<text x="350" y="42" font-size="12" fill="#8B949E">Documentacion y sistema interno</text>
+<rect x="34" y="52" width="10" height="10" rx="2" fill="#A379CE"/>
+<text x="50" y="61" font-size="12" fill="#8B949E">Infraestructura y territorio</text>
+<rect x="34" y="95.6829268292683" width="96" height="116.3" fill="#5B93CF"/>
+<path d="M34 93.6829268292683 L34 91.63414634146342 Q34 87.63414634146342 38 87.63414634146342 L126 87.63414634146342 Q130 87.63414634146342 130 91.63414634146342 L130 93.6829268292683 Z" fill="#C97F42"/>
+<text x="82.0" y="78.63414634146342" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">314</text>
+<text x="82.0" y="234" font-size="13" text-anchor="middle" fill="#8B949E">Jun</text>
+<rect x="170" y="141.96341463414632" width="96" height="70.0" fill="#5B93CF"/>
+<path d="M170 139.96341463414635 L170 86.0 Q170 82.0 174 82.0 L262 82.0 Q266 82.0 266 86.0 L266 139.96341463414635 Z" fill="#C97F42"/>
+<text x="218.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">328</text>
+<text x="218.0" y="234" font-size="13" text-anchor="middle" fill="#8B949E">Jul</text>
+<rect x="306" y="208.76829268292684" width="96" height="3.2" fill="#5B93CF"/>
+<path d="M306 206.76829268292684 L306 138.71951219512195 Q306 134.71951219512195 310 134.71951219512195 L398 134.71951219512195 Q402 134.71951219512195 402 138.71951219512195 L402 206.76829268292684 Z" fill="#C97F42"/>
+<text x="354.0" y="125.71951219512195" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">197</text>
+<text x="354.0" y="234" font-size="13" text-anchor="middle" fill="#8B949E">Ago</text>
+<rect x="442" y="212.79268292682926" width="96" height="2.0" fill="#5B93CF"/>
+<rect x="442" y="200.71951219512195" width="96" height="10.1" fill="#C97F42"/>
+<path d="M442 198.71951219512192 L442 173.3292682926829 Q442 169.3292682926829 446 169.3292682926829 L534 169.3292682926829 Q538 169.3292682926829 538 173.3292682926829 L538 198.71951219512192 Z" fill="#A379CE"/>
+<text x="490.0" y="160.3292682926829" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">111</text>
+<text x="490.0" y="234" font-size="13" text-anchor="middle" fill="#8B949E">Sep *</text>
+<line x1="34" y1="214.5" x2="538" y2="214.5" stroke="#8B949E" stroke-width="1" opacity="0.35"/>
+<text x="34" y="260" font-size="12" fill="#8B949E">950 commits. El foco pasa del analisis politico al territorio: catastro de</text>
+<text x="34" y="277" font-size="12" fill="#8B949E">recintos deportivos y herramientas de decision. * septiembre en curso.</text>
+</svg>
