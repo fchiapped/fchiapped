@@ -67,9 +67,9 @@ Lo que está público:
 **[Drift-Ainwater](https://github.com/fchiapped/Drift-Ainwater)** — Detección
 automática de outliers y drift en series de tiempo de sensores de plantas de
 tratamiento de agua. Modelado autorregresivo y detección de cambio de distribución
-con ventanas de referencia y tests KS, PSI y Wasserstein. Construido durante mi
-práctica en una empresa de tecnología para tratamiento de agua, y el sistema quedó
-operando sobre datos reales de planta.
+con ventanas de referencia y tests KS, PSI y Wasserstein. Proyecto de grado, en
+equipo de tres y junto a una empresa de tecnología para tratamiento de agua. Quedó
+operando sobre datos reales de tres plantas.
 
 **[Proyecto-Geoespaciales](https://github.com/fchiapped/Proyecto-Geoespaciales)** —
 Análisis geoespacial para localización de estaciones: cobertura, accesibilidad y
