@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="30" y="24" font-size="14" font-weight="600" fill="#E6EDF3">Commits por mes, 2026</text>
+<path d="M30 150 L30 47 Q30 43 34 43 L132 43 Q136 43 136 47 L136 150 Z" fill="#5B93CF"/>
+<text x="83.0" y="34" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">314</text>
+<text x="83.0" y="170" font-size="13" text-anchor="middle" fill="#8B949E">Jun</text>
+<path d="M160 150 L160 42 Q160 38 164 38 L262 38 Q266 38 266 42 L266 150 Z" fill="#5B93CF"/>
+<text x="213.0" y="29" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">328</text>
+<text x="213.0" y="170" font-size="13" text-anchor="middle" fill="#8B949E">Jul</text>
+<path d="M290 150 L290 87 Q290 83 294 83 L392 83 Q396 83 396 87 L396 150 Z" fill="#5B93CF"/>
+<text x="343.0" y="74" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">197</text>
+<text x="343.0" y="170" font-size="13" text-anchor="middle" fill="#8B949E">Ago</text>
+<path d="M420 150 L420 116 Q420 112 424 112 L522 112 Q526 112 526 116 L526 150 Z" fill="#5B93CF"/>
+<text x="473.0" y="103" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">111</text>
+<text x="473.0" y="170" font-size="13" text-anchor="middle" fill="#8B949E">Sep *</text>
+<line x1="30" y1="150.5" x2="526" y2="150.5" stroke="#8B949E" stroke-width="1" opacity="0.35"/>
+<text x="30" y="196" font-size="12" fill="#8B949E">* septiembre en curso. Total 2026: 950 commits</text>
+</svg>
