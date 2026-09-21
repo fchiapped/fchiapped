@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="292" viewBox="0 0 640 292" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
-<text x="34" y="20" font-size="14" font-weight="600" fill="#1F2328">En que trabaje, mes a mes (2026)</text>
+<text x="34" y="20" font-size="14" font-weight="600" fill="#1F2328">En qué trabajé, mes a mes (2026)</text>
 <rect x="34" y="33" width="10" height="10" rx="2" fill="#2563A8"/>
-<text x="50" y="42" font-size="12" fill="#57606A">Analisis politico y de medios</text>
+<text x="50" y="42" font-size="12" fill="#57606A">Análisis político y de medios</text>
 <rect x="334" y="33" width="10" height="10" rx="2" fill="#B0571A"/>
-<text x="350" y="42" font-size="12" fill="#57606A">Documentacion y sistema interno</text>
+<text x="350" y="42" font-size="12" fill="#57606A">Documentación y sistema interno</text>
 <rect x="34" y="52" width="10" height="10" rx="2" fill="#6B3FA0"/>
 <text x="50" y="61" font-size="12" fill="#57606A">Infraestructura y territorio</text>
 <rect x="34" y="95.6829268292683" width="96" height="116.3" fill="#2563A8"/>
@@ -24,6 +24,6 @@
 <text x="490.0" y="160.3292682926829" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">111</text>
 <text x="490.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Sep *</text>
 <line x1="34" y1="214.5" x2="538" y2="214.5" stroke="#57606A" stroke-width="1" opacity="0.35"/>
-<text x="34" y="260" font-size="12" fill="#57606A">950 commits. El foco pasa del analisis politico al territorio: catastro de</text>
-<text x="34" y="277" font-size="12" fill="#57606A">recintos deportivos y herramientas de decision. * septiembre en curso.</text>
+<text x="34" y="260" font-size="12" fill="#57606A">950 commits. El foco pasa del análisis político al territorio: catastro de</text>
+<text x="34" y="277" font-size="12" fill="#57606A">recintos deportivos y herramientas de decisión. * septiembre en curso.</text>
 </svg>
