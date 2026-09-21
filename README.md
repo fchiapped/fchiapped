@@ -70,7 +70,7 @@ quién lo va a usar, y qué pasa cuando la fuente cambia sin avisar.
 </picture>
 
 <!-- cifras:inicio -->
-950 commits en lo que va de 2026, repartidos en 14 repositorios. El grueso está en proyectos privados: aplicaciones en producción, pipelines de datos y análisis que se usan a diario dentro de la institución.
+951 commits en lo que va de 2026, repartidos en 14 repositorios. El grueso está en proyectos privados: aplicaciones en producción, pipelines de datos y análisis que se usan a diario dentro de la institución.
 <!-- cifras:fin -->
 
 El gráfico muestra un cambio de frente real, no una curva de actividad. Junio fue
