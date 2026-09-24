@@ -86,14 +86,14 @@ de contribuciones de acá arriba sí refleja ese ritmo.
 
 Lo que está público:
 
-**[Drift-Ainwater](https://github.com/fchiapped/Drift-Ainwater)** — Detección
+**[Drift-Ainwater](https://github.com/fchiapped/Drift-Ainwater)**. Detección
 automática de outliers y drift en series de tiempo de sensores de plantas de
 tratamiento de agua. Modelado autorregresivo y detección de cambio de distribución
 con ventanas de referencia y tests KS, PSI y Wasserstein. Proyecto de grado, en
 equipo de tres y junto a una empresa de tecnología para tratamiento de agua. Quedó
 operando sobre datos reales de tres plantas.
 
-**[Proyecto-Geoespaciales](https://github.com/fchiapped/Proyecto-Geoespaciales)** —
+**[Proyecto-Geoespaciales](https://github.com/fchiapped/Proyecto-Geoespaciales)**.
 Cobertura del Metro de Santiago por zona censal: cuánta gente queda fuera del
 alcance caminable de una estación y cuánto lo corrigen las líneas proyectadas.
 Moran's I local, DBSCAN e imágenes satelitales.
