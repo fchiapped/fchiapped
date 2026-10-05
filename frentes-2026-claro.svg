@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="603" height="292" viewBox="0 0 603 292" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="628" height="292" viewBox="0 0 628 292" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="34" y="20" font-size="14" font-weight="600" fill="#1F2328">En qué trabajé, mes a mes (2026)</text>
 <rect x="34" y="33" width="10" height="10" rx="2" fill="#2563A8"/>
 <text x="50" y="42" font-size="12" fill="#57606A">Análisis político y de medios</text>
@@ -6,23 +6,27 @@
 <text x="350" y="42" font-size="12" fill="#57606A">Documentación y sistema interno</text>
 <rect x="34" y="52" width="10" height="10" rx="2" fill="#6B3FA0"/>
 <text x="50" y="61" font-size="12" fill="#57606A">Infraestructura y territorio</text>
-<rect x="34" y="95.6829268292683" width="106" height="116.3" fill="#2563A8"/>
-<path d="M34 93.6829268292683 L34 91.63414634146342 Q34 87.63414634146342 38 87.63414634146342 L136 87.63414634146342 Q140 87.63414634146342 140 91.63414634146342 L140 93.6829268292683 Z" fill="#B0571A"/>
-<text x="87.0" y="78.63414634146342" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">314</text>
-<text x="87.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Jun</text>
-<rect x="177" y="141.96341463414632" width="106" height="70.0" fill="#2563A8"/>
-<path d="M177 139.96341463414635 L177 86.0 Q177 82.0 181 82.0 L279 82.0 Q283 82.0 283 86.0 L283 139.96341463414635 Z" fill="#B0571A"/>
-<text x="230.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">328</text>
-<text x="230.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Jul</text>
-<rect x="320" y="208.76829268292684" width="106" height="3.2" fill="#2563A8"/>
-<path d="M320 206.76829268292684 L320 138.71951219512195 Q320 134.71951219512195 324 134.71951219512195 L422 134.71951219512195 Q426 134.71951219512195 426 138.71951219512195 L426 206.76829268292684 Z" fill="#B0571A"/>
-<text x="373.0" y="125.71951219512195" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">197</text>
-<text x="373.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Ago</text>
-<rect x="463" y="211.58536585365854" width="106" height="2.0" fill="#2563A8"/>
-<rect x="463" y="193.0731707317073" width="106" height="16.5" fill="#B0571A"/>
-<path d="M463 191.0731707317073 L463 141.9390243902439 Q463 137.9390243902439 467 137.9390243902439 L565 137.9390243902439 Q569 137.9390243902439 569 141.9390243902439 L569 191.0731707317073 Z" fill="#6B3FA0"/>
-<text x="516.0" y="128.9390243902439" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">189</text>
-<text x="516.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Sep *</text>
-<line x1="34" y1="214.5" x2="569" y2="214.5" stroke="#57606A" stroke-width="1" opacity="0.35"/>
-<text x="34" y="260" font-size="12" fill="#57606A">1028 commits en 2026. * mes en curso.</text>
+<rect x="34" y="95.6829268292683" width="88" height="116.3" fill="#2563A8"/>
+<path d="M34 93.6829268292683 L34 91.63414634146342 Q34 87.63414634146342 38 87.63414634146342 L118 87.63414634146342 Q122 87.63414634146342 122 91.63414634146342 L122 93.6829268292683 Z" fill="#B0571A"/>
+<text x="78.0" y="78.63414634146342" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">314</text>
+<text x="78.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Jun</text>
+<rect x="152" y="141.96341463414632" width="88" height="70.0" fill="#2563A8"/>
+<path d="M152 139.96341463414635 L152 86.0 Q152 82.0 156 82.0 L236 82.0 Q240 82.0 240 86.0 L240 139.96341463414635 Z" fill="#B0571A"/>
+<text x="196.0" y="73.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">328</text>
+<text x="196.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Jul</text>
+<rect x="270" y="208.76829268292684" width="88" height="3.2" fill="#2563A8"/>
+<path d="M270 206.76829268292684 L270 138.71951219512195 Q270 134.71951219512195 274 134.71951219512195 L354 134.71951219512195 Q358 134.71951219512195 358 138.71951219512195 L358 206.76829268292684 Z" fill="#B0571A"/>
+<text x="314.0" y="125.71951219512195" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">197</text>
+<text x="314.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Ago</text>
+<rect x="388" y="211.58536585365854" width="88" height="2.0" fill="#2563A8"/>
+<rect x="388" y="190.2560975609756" width="88" height="19.3" fill="#B0571A"/>
+<path d="M388 188.2560975609756 L388 119.8048780487805 Q388 115.8048780487805 392 115.8048780487805 L472 115.8048780487805 Q476 115.8048780487805 476 119.8048780487805 L476 188.2560975609756 Z" fill="#6B3FA0"/>
+<text x="432.0" y="106.8048780487805" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">244</text>
+<text x="432.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Sep</text>
+<rect x="506" y="211.58536585365854" width="88" height="2.0" fill="#B0571A"/>
+<path d="M506 209.58536585365854 L506 207.53658536585365 Q506 203.53658536585365 510 203.53658536585365 L590 203.53658536585365 Q594 203.53658536585365 594 207.53658536585365 L594 209.58536585365854 Z" fill="#6B3FA0"/>
+<text x="550.0" y="194.53658536585365" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">26</text>
+<text x="550.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Oct *</text>
+<line x1="34" y1="214.5" x2="594" y2="214.5" stroke="#57606A" stroke-width="1" opacity="0.35"/>
+<text x="34" y="260" font-size="12" fill="#57606A">1109 commits en 2026. * mes en curso.</text>
 </svg>
