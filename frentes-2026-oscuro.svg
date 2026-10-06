@@ -3,9 +3,9 @@
 <rect x="34" y="33" width="10" height="10" rx="2" fill="#5B93CF"/>
 <text x="50" y="42" font-size="12" fill="#8B949E">Análisis político y de medios</text>
 <rect x="334" y="33" width="10" height="10" rx="2" fill="#C97F42"/>
-<text x="350" y="42" font-size="12" fill="#8B949E">Documentación y sistema interno</text>
+<text x="350" y="42" font-size="12" fill="#8B949E">Sistemas, procesos e innovación</text>
 <rect x="34" y="52" width="10" height="10" rx="2" fill="#A379CE"/>
-<text x="50" y="61" font-size="12" fill="#8B949E">Infraestructura y territorio</text>
+<text x="50" y="61" font-size="12" fill="#8B949E">Infraestructura deportiva</text>
 <rect x="34" y="95.6829268292683" width="88" height="116.3" fill="#5B93CF"/>
 <path d="M34 93.6829268292683 L34 91.63414634146342 Q34 87.63414634146342 38 87.63414634146342 L118 87.63414634146342 Q122 87.63414634146342 122 91.63414634146342 L122 93.6829268292683 Z" fill="#C97F42"/>
 <text x="78.0" y="78.63414634146342" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">314</text>
@@ -23,10 +23,10 @@
 <path d="M388 188.2560975609756 L388 119.8048780487805 Q388 115.8048780487805 392 115.8048780487805 L472 115.8048780487805 Q476 115.8048780487805 476 119.8048780487805 L476 188.2560975609756 Z" fill="#A379CE"/>
 <text x="432.0" y="106.8048780487805" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">244</text>
 <text x="432.0" y="234" font-size="13" text-anchor="middle" fill="#8B949E">Sep</text>
-<rect x="506" y="211.58536585365854" width="88" height="2.0" fill="#C97F42"/>
-<path d="M506 209.58536585365854 L506 207.53658536585365 Q506 203.53658536585365 510 203.53658536585365 L590 203.53658536585365 Q594 203.53658536585365 594 207.53658536585365 L594 209.58536585365854 Z" fill="#A379CE"/>
-<text x="550.0" y="194.53658536585365" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">26</text>
+<rect x="506" y="206.35365853658536" width="88" height="5.6" fill="#C97F42"/>
+<path d="M506 204.35365853658539 L506 202.3048780487805 Q506 198.3048780487805 510 198.3048780487805 L590 198.3048780487805 Q594 198.3048780487805 594 202.3048780487805 L594 204.35365853658539 Z" fill="#A379CE"/>
+<text x="550.0" y="189.3048780487805" font-size="14" font-weight="600" text-anchor="middle" fill="#E6EDF3">39</text>
 <text x="550.0" y="234" font-size="13" text-anchor="middle" fill="#8B949E">Oct *</text>
 <line x1="34" y1="214.5" x2="594" y2="214.5" stroke="#8B949E" stroke-width="1" opacity="0.35"/>
-<text x="34" y="260" font-size="12" fill="#8B949E">1109 commits en 2026. * mes en curso.</text>
+<text x="34" y="260" font-size="12" fill="#8B949E">1122 commits en 2026. * mes en curso.</text>
 </svg>
