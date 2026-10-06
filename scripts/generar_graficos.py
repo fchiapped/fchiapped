@@ -157,8 +157,12 @@ def dibujar(orden, conteo, meses_activos, tema, destino):
     (RAIZ / destino).write_text("\n".join(p), encoding="utf-8")
 
 
-def actualizar_readme(total, repos, sello):
-    """Reescribe el bloque entre marcas y refresca el parametro anti-cache."""
+MESES_LARGOS = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+                "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+
+
+def actualizar_readme(total, repos, sello, orden, conteo, meses_activos):
+    """Reescribe el bloque entre marcas, el alt del grafico y el parametro anti-cache."""
     ruta = RAIZ / "README.md"
     texto = ruta.read_text(encoding="utf-8")
 
@@ -168,6 +172,15 @@ def actualizar_readme(total, repos, sello):
               "institución.").format(total, ANIO, repos)
     texto = re.sub(r"(?s)(<!-- cifras:inicio -->).*?(<!-- cifras:fin -->)",
                    lambda m: m.group(1) + "\n" + bloque + "\n" + m.group(2), texto)
+
+    # El alt describe las barras para lectores de pantalla: se rehace con los
+    # mismos conteos o queda contando meses viejos.
+    por_mes = ", ".join("{0} {1}".format(MESES_LARGOS[m - 1],
+                                         sum(conteo[f][m] for f in orden))
+                        for m in meses_activos)
+    alt = ("Commits por mes en {0} separados por frente de trabajo: {1}"
+           .format(ANIO, por_mes))
+    texto = re.sub(r'alt="Commits por mes[^"]*"', lambda m: 'alt="' + alt + '"', texto)
 
     # El proxy de imagenes de GitHub cachea por URL: sin este parametro el
     # grafico nuevo no se ve hasta que expire la cache sola.
@@ -185,7 +198,8 @@ def main():
     dibujar(orden, conteo, meses_activos, "claro", "frentes-{0}-claro.svg".format(ANIO))
     dibujar(orden, conteo, meses_activos, "oscuro", "frentes-{0}-oscuro.svg".format(ANIO))
     total = sum(sum(conteo[f].values()) for f in orden)
-    actualizar_readme(total, repos, dt.date.today().strftime("%Y%m%d"))
+    actualizar_readme(total, repos, dt.date.today().strftime("%Y%m%d"),
+                      orden, conteo, meses_activos)
     print("Listo: {0} commits, {1} repos, meses {2}".format(total, repos, meses_activos))
 
 
