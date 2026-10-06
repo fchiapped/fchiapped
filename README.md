@@ -80,11 +80,11 @@ quién lo va a usar, y qué pasa cuando la fuente cambia sin avisar.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fchiapped/fchiapped/main/frentes-2026-oscuro.svg?v=20261006">
-  <img alt="Commits por mes en 2026 separados por frente de trabajo: junio 314, julio 328, agosto 197, septiembre 111" src="https://raw.githubusercontent.com/fchiapped/fchiapped/main/frentes-2026-claro.svg?v=20261006" width="640">
+  <img alt="Commits por mes en 2026 separados por frente de trabajo: junio 314, julio 328, agosto 197, septiembre 244, octubre 41" src="https://raw.githubusercontent.com/fchiapped/fchiapped/main/frentes-2026-claro.svg?v=20261006" width="640">
 </picture>
 
 <!-- cifras:inicio -->
-1122 commits en lo que va de 2026, repartidos en 14 repositorios. El grueso está en proyectos privados: aplicaciones en producción, pipelines de datos y análisis que se usan a diario dentro de la institución.
+1124 commits en lo que va de 2026, repartidos en 14 repositorios. El grueso está en proyectos privados: aplicaciones en producción, pipelines de datos y análisis que se usan a diario dentro de la institución.
 <!-- cifras:fin -->
 
 El gráfico muestra cambios de frente reales, no una curva de actividad. Junio fue
