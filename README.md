@@ -1,7 +1,8 @@
 # Franco Chiappe
 
-Científico de datos y AI Engineer. Trabajo en el Estado, construyendo sistemas que
-convierten datos dispersos en decisiones que alguien tiene que tomar el lunes.
+Científico de datos y AI Engineer en el Estado. Trabajo en innovación y
+modernización: información ordenada, limpia y en funcionamiento, que sirva para
+tomar decisiones.
 
 Vengo de la Ingeniería en Ciencia de Datos UC. Antes del sector público pasé por
 banca y por datos industriales, y de ahí me quedó la costumbre de que un modelo
@@ -11,16 +12,29 @@ sirve poco si no queda corriendo solo.
 
 ## En qué estoy ahora
 
-**Infraestructura deportiva y territorio.** Mi frente principal. Catastro nacional de
-recintos: consolidar fuentes que no conversan entre sí, medir cobertura territorial,
-y construir la herramienta interna con la que se decide dónde invertir y se hace
-seguimiento de los recintos. Datos públicos, criterios que hay que discutir antes de
-calcular.
+**Innovación en sistemas y procesos.** Trabajo directo con las jefaturas de las
+distintas divisiones en la modernización de cómo se organiza y opera la institución:
+su estructura, sus sistemas, sus procesos y la información de la que dependen. Desde
+el área de calidad de procesos e innovación de planificación y control de gestión,
+catastro qué sistemas existen y cómo se conectan con los del servicio relacionado,
+documento los procesos con el estándar vigente y rediseño donde hoy hay trabajo
+duplicado o manual. La reestructuración y la limpieza de los datos son la base, para
+que la gestión se apoye en información confiable. Lo siguiente es la gobernanza de
+datos de la institución.
 
-**Análisis parlamentario y de medios.** Pipelines con modelos de lenguaje que
-transcriben sesiones legislativas, estructuran posturas por actor y siguen la
-cobertura de prensa diaria. Lo que antes era leer y resumir a mano, hoy llega
-procesado.
+**Política nacional 2026-2037.** Armo el modelo de seguimiento y control de la
+política nacional del sector para los próximos doce años, que define cómo se va a
+medir el avance de cada uno de sus compromisos.
+
+**Infraestructura deportiva.** Fue lo primero que tomamos, porque es de lo que más
+información se le pide a la institución. Consolidé fuentes que no conversaban entre
+sí, reorganicé la información y construí la visualización con la que hoy se gestionan
+la inversión y el seguimiento de recintos. Avanzó en paralelo con los procesos que ya
+estábamos empezando a aplicar.
+
+**Antes.** Armé la capa de datos e IA para la autoridad y su gabinete: mapa político
+del sector, monitoreo diario de prensa y transcripción de sesiones legislativas con
+modelos de lenguaje.
 
 ---
 
@@ -73,8 +87,9 @@ quién lo va a usar, y qué pasa cuando la fuente cambia sin avisar.
 1109 commits en lo que va de 2026, repartidos en 14 repositorios. El grueso está en proyectos privados: aplicaciones en producción, pipelines de datos y análisis que se usan a diario dentro de la institución.
 <!-- cifras:fin -->
 
-El gráfico muestra un cambio de frente real, no una curva de actividad. Junio fue
-casi todo análisis político. Septiembre es casi todo territorio.
+El gráfico muestra cambios de frente reales, no una curva de actividad. Junio fue
+casi todo análisis político; septiembre, infraestructura; desde octubre, sistemas y
+procesos.
 
 ---
 

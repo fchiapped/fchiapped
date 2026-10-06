@@ -1,10 +1,10 @@
 {
   "_comentario": "A que frente de trabajo pertenece cada repo. Un repo que no este aca cae en el frente por defecto. Para sumar uno nuevo basta agregar la linea.",
-  "_por_defecto": "Documentación y sistema interno",
+  "_por_defecto": "Sistemas, procesos e innovación",
   "_orden": [
     "Análisis político y de medios",
-    "Documentación y sistema interno",
-    "Infraestructura y territorio"
+    "Sistemas, procesos e innovación",
+    "Infraestructura deportiva"
   ],
   "mapa-politico": "Análisis político y de medios",
   "comunicacion-estrategica": "Análisis político y de medios",
@@ -14,8 +14,13 @@
   "monitoreo-medios-ministra": "Análisis político y de medios",
   "transcripcion-comisiones": "Análisis político y de medios",
   "agenda-ministra": "Análisis político y de medios",
-  "recomendador-centros": "Infraestructura y territorio",
-  "catastro-recintos": "Infraestructura y territorio",
-  "dashboard-recintos": "Infraestructura y territorio",
-  "red-municipal-deporte": "Infraestructura y territorio"
+  "recomendador-centros": "Infraestructura deportiva",
+  "catastro-recintos": "Infraestructura deportiva",
+  "dashboard-recintos": "Infraestructura deportiva",
+  "red-municipal-deporte": "Infraestructura deportiva",
+  "mindep-contexto": "Sistemas, procesos e innovación",
+  "procesos-innovacion": "Sistemas, procesos e innovación",
+  "organigrama-mindep": "Sistemas, procesos e innovación",
+  "politica-nacional": "Sistemas, procesos e innovación",
+  "coordinacion-seremias": "Sistemas, procesos e innovación"
 }
