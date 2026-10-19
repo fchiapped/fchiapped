@@ -23,10 +23,10 @@
 <path d="M388 188.2560975609756 L388 119.8048780487805 Q388 115.8048780487805 392 115.8048780487805 L472 115.8048780487805 Q476 115.8048780487805 476 119.8048780487805 L476 188.2560975609756 Z" fill="#6B3FA0"/>
 <text x="432.0" y="106.8048780487805" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">244</text>
 <text x="432.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Sep</text>
-<rect x="506" y="201.9268292682927" width="88" height="10.1" fill="#B0571A"/>
-<path d="M506 199.9268292682927 L506 197.8780487804878 Q506 193.8780487804878 510 193.8780487804878 L590 193.8780487804878 Q594 193.8780487804878 594 197.8780487804878 L594 199.9268292682927 Z" fill="#6B3FA0"/>
-<text x="550.0" y="184.8780487804878" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">50</text>
+<rect x="506" y="198.3048780487805" width="88" height="13.7" fill="#B0571A"/>
+<path d="M506 196.3048780487805 L506 192.64634146341464 Q506 188.64634146341464 510 188.64634146341464 L590 188.64634146341464 Q594 188.64634146341464 594 192.64634146341464 L594 196.3048780487805 Z" fill="#6B3FA0"/>
+<text x="550.0" y="179.64634146341464" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">63</text>
 <text x="550.0" y="234" font-size="13" text-anchor="middle" fill="#57606A">Oct *</text>
 <line x1="34" y1="214.5" x2="594" y2="214.5" stroke="#57606A" stroke-width="1" opacity="0.35"/>
-<text x="34" y="260" font-size="12" fill="#57606A">1133 commits en 2026. * mes en curso.</text>
+<text x="34" y="260" font-size="12" fill="#57606A">1146 commits en 2026. * mes en curso.</text>
 </svg>
